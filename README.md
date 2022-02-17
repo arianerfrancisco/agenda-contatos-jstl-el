@@ -1,2 +1,7 @@
 # agenda-contatos-jstl-el
- Agenda com JSP e Servlet, aplicando JSTL e EL
+
+Referência de estudo: 
+
+Curso Softblue - Curso Java Web com Servlets e JSPs (JV-04)- Módulo 07 - JavaBeans, EL e JSTL
+
+https://www.softblue.com.br/course/home/id/4
